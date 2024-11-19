@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+string
+wordcloud
+collections
+pickle 
+streamlit
+scipy
+
